@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project showcases a Weather Application that utilizes the OpenWeatherMap API and GeoDB API to provide weather information based on user-selected locations. The application also features a places autocomplete functionality for ease of use. It combines data from the OpenWeatherMap API for weather details and the GeoDB API for places autocomplete. Users can search for a location, get suggestions as they type, and receive accurate weather forecasts.
 
 ## Demo
-[![Weather App](https://drive.google.com/file/d/1kgiDGlSF5BEF_pO_fr9i3q5wqKfU3Cms/view?usp=drive_link)](https://drive.google.com/file/d/1nQcK3m2NFvRnzMFbjX7O5uqnzi6tDRHV/view?usp=sharing)
+[Weather App](https://drive.google.com/file/d/1nQcK3m2NFvRnzMFbjX7O5uqnzi6tDRHV/view?usp=sharing)
 
 
 
